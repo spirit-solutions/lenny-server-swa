@@ -1,6 +1,0 @@
-@Lenny.SnippetService_HostAddress = http://localhost:5246
-
-GET {{Lenny.SnippetService_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
