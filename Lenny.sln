@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lenny.SnippetService", "Lenny.SnippetService\Lenny.SnippetService.csproj", "{C1B4A170-9D2D-4C12-ADEA-37FD8C86FC6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lenny.SearchService", "Lenny.SearchService\Lenny.SearchService.csproj", "{B642A50B-23DF-4973-9610-0DA339E6BA54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lenny.CommentService", "Lenny.CommentService\Lenny.CommentService.csproj", "{14B8AC32-A664-408A-B97B-A099F6A80772}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1B4A170-9D2D-4C12-ADEA-37FD8C86FC6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1B4A170-9D2D-4C12-ADEA-37FD8C86FC6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1B4A170-9D2D-4C12-ADEA-37FD8C86FC6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1B4A170-9D2D-4C12-ADEA-37FD8C86FC6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B642A50B-23DF-4973-9610-0DA339E6BA54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B642A50B-23DF-4973-9610-0DA339E6BA54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B642A50B-23DF-4973-9610-0DA339E6BA54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B642A50B-23DF-4973-9610-0DA339E6BA54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14B8AC32-A664-408A-B97B-A099F6A80772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14B8AC32-A664-408A-B97B-A099F6A80772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14B8AC32-A664-408A-B97B-A099F6A80772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14B8AC32-A664-408A-B97B-A099F6A80772}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
